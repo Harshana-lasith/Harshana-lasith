@@ -20,6 +20,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshana-lasith&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-lasith&layout=compact&theme=tokyonight)
 
+---
 
-📫 **Reach me:** [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/harshana-lasith-23714b2b7/)) | [Email](harshanalasith@ieee.org)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/harshana-lasith-23714b2b7/) | [Email](harshanalasith@ieee.org)
 
